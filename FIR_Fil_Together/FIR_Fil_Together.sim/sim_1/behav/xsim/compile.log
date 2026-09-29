@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/11545/Desktop/FIR_Filter_Top/FIR_Filter_Top.srcs/sources_1/new/Adder_Tree.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder_Tree_Recursive
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/11545/Desktop/FIR_Filter_Top/FIR_Filter_Top.srcs/sources_1/new/FIR_Filter_Top_Module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIR_Filter_Top_Module
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/11545/Desktop/FIR_Filter_Top/FIR_Filter_Top.srcs/sources_1/new/Parallel_Adder_Tree.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Parallel_Adder_Tree
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/11545/Desktop/FIR_Filter_Top/FIR_Filter_Top.srcs/sources_1/new/Parallel_Multiplication.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Parallel_Multiplication
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/11545/Desktop/FIR_Filter_Top/FIR_Filter_Top.srcs/sources_1/new/Pipe_Reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Pipe_Reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/11545/Desktop/FIR_Filter_Top/FIR_Filter_Top.srcs/sim_1/new/tb_FIR_Filter_Top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_FIR_Filter_Top_Module

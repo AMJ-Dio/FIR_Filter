@@ -1,0 +1,29 @@
+Time resolution is 1 ps
+========== FIR Filter Test Started ==========
+[56000] Coefficients Loaded: c0=1, c1=2, c2=3, c3=4
+[96000] MMIO Start Asserted
+[116000] Sent Data Group 1: 1, 2, 3, 4
+[126000] Sent Data Group 2: 5, 6, 7, 8
+[136000] Sent Flush Data  : 0, 0, 0, 0 with TLAST
+[155000] Valid Output Received! TLAST = 0
+      Data[3] = 20
+      Data[2] = 11
+      Data[1] = 4
+      Data[0] = 0
+      -----------------------------------
+[165000] Valid Output Received! TLAST = 0
+      Data[3] = 60
+      Data[2] = 50
+      Data[1] = 40
+      Data[0] = 30
+      -----------------------------------
+[175000] Valid Output Received! TLAST = 1
+      Data[3] = 8
+      Data[2] = 23
+      Data[1] = 44
+      Data[0] = 70
+      -----------------------------------
+[185000] Hardware asserted DONE!
+[196000] MMIO Start Cleared. Hardware should return to IDLE.
+========== FIR Filter Test Finished ==========
+$finish called at time : 246 ns : File "C:/Users/11545/Desktop/FIR_Filter_Top/FIR_Filter_Top.srcs/sim_1/new/tb_FIR_Filter_Top.v" Line 163
